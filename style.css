@@ -1,0 +1,17 @@
+div{
+    border-bottom: 1px solid black;
+    margin: 0px auto;
+    width: 400px;
+}
+h1{
+    font-size: 44px;
+    margin: 0px auto;
+    width: 400px;
+
+}
+.date{
+    font-size: 12px;
+}
+.main{
+    font-size: 14px;
+}
